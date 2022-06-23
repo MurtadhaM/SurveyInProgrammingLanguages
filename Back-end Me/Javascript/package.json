@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "domparser": "^0.1.1",
+    "fetch": "^1.1.0",
+    "jsdom": "^19.0.0",
+    "request": "^2.88.2",
+  },
+  "name": "fetch-jsonp",
+  "version": "0.1.0",
+  "description": "Fetch JSONP with node-fetch",
+  "keywords": [
+    "fetch",
+    "jsonp"
+  ],
+  "author": {
+    "name": "Murtadha Marozouq"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js"
+  }
+}
