@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VTF Redzone Classic';
+    src: local('VTF Redzone Classic Classic'), local('VTF-Redzone-Classic-Classic'),
+        url('VTFRedzone-Classic.woff2') format('woff2'),
+        url('VTFRedzone-Classic.woff') format('woff'),
+        url('VTFRedzone-Classic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

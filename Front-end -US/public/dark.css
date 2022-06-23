@@ -1,0 +1,9 @@
+:root {
+	--color-primary: rgb(255, 255, 255);
+	--color-secondary: rgb(0, 80, 53);
+	--color-third: rgb(164, 150, 101);
+	--color-fourth: rgb(35, 58, 48);
+	--color-accent: rgba(218, 201, 138, 1);
+	--color-green: rgb(0, 80, 53);
+	--font-color: #ffffff;
+}
